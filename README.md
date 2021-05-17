@@ -1,8 +1,8 @@
-## Olá! Sou Pojucan e Desenvolvedor Python
+## Desenvolvedor Python
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcello-santos-20ab0623)](https://www.linkedin.com/in/marcello-santos-20ab0623/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/OnPhysike)](https://twitter.com/OnPhysike)
 
-Sou Mestre em Ciência e Tecnologia de Materiais. Atualmente trabalho com desenvolvimento de materiais poliméricos avançados na área ambiental. Desenvolvo aplicações para avaliação e tratamento estatístico de dados científicos. Possuo experiência em Fortran 90/95 e Python.
+Mestre em Ciência e Tecnologia de Materiais. Atualmente trabalha com desenvolvimento de materiais poliméricos avançados na área ambiental. Desenvolve aplicações para avaliação e tratamento estatístico de dados científicos. Possui experiência em Fortran 90/95 e Python.
 
 ## Sobre mim:
 
