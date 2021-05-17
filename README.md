@@ -9,3 +9,8 @@ Sou Mestre em Ciência e Tecnologia de Materiais. Atualmente trabalho com desenv
 - 🔭 Trabalho com Design de Experimentos e otimização de formulações de polímeros biodegradáveis.
 - 🌱 Estou aprendendo Matplotlib, Pandas e Aprendizagem de Máquina.
 - 🤔 Procuro ajuda com automação via sistemas embarcados (Arduino, ESP32 e ESP8266)
+
+##Linguagens e Ferramentas:
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
