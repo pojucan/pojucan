@@ -2,9 +2,9 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/OnPhysike)](https://twitter.com/OnPhysike)
 
 <div>
-  <a href="https://github.com/ricaun">
+  <a href="https://github.com/pojucan">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pojucan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pojucann&layout=compact&langs_count=8&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pojucan&layout=compact&langs_count=8&theme=dark"/>
 </div>
 
 ## Sobre mim:
