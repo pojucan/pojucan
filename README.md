@@ -13,10 +13,7 @@
 
 ## Linguagens e Ferramentas:
 
-[![Git](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png|width=30)](https://github.com/topics/git)
+[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="30">](https://github.com/topics/git)
+[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="40">](https://github.com/topics/python)
+[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" width="50">](https://github.com/topics/latex)
 
-<!-- Defina a largura personalizada (exemplo: 30 pixels) -->
-[![Python](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png|width=30)](https://github.com/topics/python)
-
-<!-- Defina a largura personalizada (exemplo: 40 pixels) -->
-[![LaTeX](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png|width=30)](https://github.com/topics/latex)
