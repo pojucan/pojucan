@@ -13,6 +13,6 @@
 
 ## Linguagens e Ferramentas:
 
-[![Git](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png)](https://github.com/topics/git)
-[![Python](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png)](https://github.com/topics/python)
-[![LaTeX](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png)](https://github.com/topics/latex)
+[![Git](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png | width=20)](https://github.com/topics/git)
+[![Python](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png | width=20)](https://github.com/topics/python)
+[![LaTeX](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png | width=20)](https://github.com/topics/latex)
