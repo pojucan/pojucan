@@ -11,7 +11,7 @@
 
 - 🔭 Trabalha com Design de Experimentos, otimização de materiais poliméricos avançados na área ambiental, nanotecnologia, análise exploratória, tratamento estatístico e redes neurais artificiais. Desenvolve em Python e Fortran 90/95.
 
-## Linguagens e Ferramentas:
+## Habilidades:
 
 [<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" width="90">](https://github.com/topics/latex)
 
