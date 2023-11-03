@@ -1,14 +1,15 @@
-## Desenvolvedor Python
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcello-santos-20ab0623)](https://www.linkedin.com/in/marcello-santos-20ab0623/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/OnPhysike)](https://twitter.com/OnPhysike)
 
-Mestre em Ciência e Tecnologia de Materiais. Atualmente trabalha com desenvolvimento de materiais poliméricos avançados na área ambiental. Desenvolve aplicações para avaliação e tratamento estatístico de dados científicos. Possui experiência em Fortran 90/95 e Python.
+<div>
+  <a href="https://github.com/ricaun">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pojucan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pojucann&layout=compact&langs_count=8&theme=dark"/>
+</div>
 
 ## Sobre mim:
 
-- 🔭 Trabalho com Design de Experimentos e otimização de formulações de polímeros biodegradáveis.
-- 🌱 Estou aprendendo Matplotlib, Pandas e Aprendizagem de Máquina.
-- 🤔 Procuro ajuda com automação via sistemas embarcados (Arduino, ESP32 e ESP8266)
+- 🔭 Trabalha com Design de Experimentos e otimização de materiais poliméricos avançados e nanotecnologia na área ambiental, análise exploratória e tratamento estatístico e redes neurais artificiais. Desenvolve em Python e Fortran 90/95.
 
 ## Linguagens e Ferramentas:
 
