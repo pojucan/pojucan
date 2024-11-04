@@ -26,19 +26,3 @@
 
 ##
 [![](https://visitcount.itsvg.in/api?id=pojucan&label=Visitas&color=9&icon=5&pretty=true)](https://visitcount.itsvg.in)
-
-<!--[<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" width="90">](https://github.com/topics/latex)-->
-
-<!--[<img align="left" src="https://raw.githubusercontent.com/github/explore/5103391a5a07b690f170019df10d2e6f9d1f3b09/topics/fortran/fortran.png" width="60">](https://github.com/topics/fortran90)-->
-
-<!-- <img align="left" alt="Python" width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> -->
-
-<!--<img align="left" height="70" src="https://raw.githubusercontent.com/github/explore/2d218e3aa252dc90eef269b34eeec1fbd15dc07e/topics/sqlite/sqlite.png">-->
-
-<!--<img align="left" height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"> -->
-
-<!--<img align="left" height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png">-->
-
-<!-- <img align="left" alt="HTML5" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> -->
-
-<!--<img align="left" alt="Arduino" width="60px"  src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png >-->
