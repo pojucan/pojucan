@@ -19,7 +19,7 @@
 
 ## Sobre mim
 
-- 🔭 Trabalho com o desenvolvimento, otimização e caracterizações de nanomateriais, design de experimentos, análises estatísticas exploratórias e machine learning. Nas horas vagas desenvolvo projetos makers nas áreas de eletrônica, automação e segurança da informação.
+- 🔭 D.Sc. em Nanobiosistemas com ênfase em machine learning e nanotecnologia, M.Sc. em Ciência e Tecnologia de Materiais, pós-graduado em Gestão Educacional, licenciado e bacharel em Física. 10 anos de experiência em P&D&I com ênfase em processamento, síntese e caracterização de materiais avançados. Possui experiência em modelos de classificação por machine learning (Random Forest, Perceptron de Multicamadas e SVM), desenvolvimento de data pipelines em Python e R, SQL, Fortran 90/95, design de experimentos e Linux (Debian).
 
 ## Habilidades:
 
