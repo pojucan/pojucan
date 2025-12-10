@@ -9,13 +9,16 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pojucan&layout=compact&langs_count=8&theme=dark"/>
 </div> -->
 
-<a href="https://github.com/pojucan">
+<!-- <a href="https://github.com/pojucan">
   <img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=pojucan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </a>
 <a href="https://github.com/pojucan">
   <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pojucan&layout=compact&langs_count=8&theme=dark"/>
-</a>
+</a> -->
 
+[![Meu GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO)](https://github.com/pojucan)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO)](https://github.com/pojucan)
 
 ## Sobre mim
 
