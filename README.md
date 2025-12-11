@@ -37,14 +37,6 @@
   <img src="https://github-readme-stats-psi-eight.vercel.app/api/pin/?username=pojucan&repo=iris-random-forest&theme=radical" />
 </a> -->
 
-## modelo-cnn-sensores
-<!-- CODE: modelo-cnn-sensores -->
-<!-- END CODE -->
-
-## split_audio
-<!-- CODE: split_audio -->
-<!-- END CODE -->
-
 <!-- CODE: iris-random-forest -->
 ```python
 import json
@@ -54,6 +46,15 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score, classification_report, confusion_matrix
 ```
 <!-- END CODE -->
+
+## modelo-cnn-sensores
+<!-- CODE: modelo-cnn-sensores -->
+<!-- END CODE -->
+
+## split_audio
+<!-- CODE: split_audio -->
+<!-- END CODE -->
+
 
 <!-- <p>
   <a href="https://github.com/pojucan/iris-random-forest.git">iris-random-forest</a> •
