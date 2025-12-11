@@ -37,6 +37,13 @@
   <img src="https://github-readme-stats-psi-eight.vercel.app/api/pin/?username=pojucan&repo=iris-random-forest&theme=radical" />
 </a> -->
 
+## modelo-cnn-sensores
+<!-- CODE: modelo-cnn-sensores -->
+<!-- END CODE -->
+
+## split_audio
+<!-- CODE: split_audio -->
+<!-- END CODE -->
 
 <!-- CODE: iris-random-forest -->
 ```python
