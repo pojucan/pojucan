@@ -5,7 +5,7 @@ on:
   push:
     branches: ["main"]
   schedule:
-    - cron: "0 0 * * *"   # Atualiza diariamente
+    - cron: "0 0 * * *"
 
 jobs:
   update-snippets:
@@ -18,15 +18,16 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           fetch-depth: 1
 
-      - name: Get code sample from iris-random-forest repo
+      ##############################
+      # 1 — iris-random-forest
+      ##############################
+      - name: Get snippet - iris-random-forest
         run: |
-          mkdir temp
-          cd temp
+          mkdir -p temp/iris
+          cd temp/iris
 
-          # Clona o repositório alvo
           git clone https://github.com/pojucan/iris-random-forest.git repo
 
-          # Arquivo de onde você quer extrair código
           TARGET_FILE="repo/src/iris_classifier.py"
 
           if [ ! -f "$TARGET_FILE" ]; then
@@ -34,23 +35,75 @@ jobs:
             exit 1
           fi
 
-          # Extrai primeiras 20 linhas
-          head -n 5 "$TARGET_FILE" > snippet.txt
+          head -n 10 "$TARGET_FILE" > snippet.txt
 
-          cd ..
-      
-      - name: Insert snippet into README
+      - name: Insert snippet - iris-random-forest
         run: |
-          SNIPPET=$(printf "%s\n" "\`\`\`python" "$(cat temp/snippet.txt)" "\`\`\`")
+          SNIPPET=$(printf "%s\n" "\`\`\`python" "$(cat temp/iris/snippet.txt)" "\`\`\`")
 
-          # Substitui automaticamente entre os marcadores
           perl -0777 -i -pe "s/<!-- CODE: iris-random-forest -->.*?<!-- END CODE -->/<!-- CODE: iris-random-forest -->\n$SNIPPET\n<!-- END CODE -->/s" README.md
 
+
+      ##############################
+      # 2 — modelo-cnn-sensores
+      ##############################
+      - name: Get snippet - modelo-cnn-sensores
+        run: |
+          mkdir -p temp/cnn
+          cd temp/cnn
+
+          git clone https://github.com/pojucan/modelo-cnn-sensores.git repo
+
+          TARGET_FILE="repo/scr/model-cnn-sensor.py"  # altere conforme necessário
+
+          if [ ! -f "$TARGET_FILE" ]; then
+            echo "Arquivo $TARGET_FILE não existe!"
+            exit 1
+          fi
+
+          head -n 10 "$TARGET_FILE" > snippet.txt
+
+      - name: Insert snippet - modelo-cnn-sensores
+        run: |
+          SNIPPET=$(printf "%s\n" "\`\`\`python" "$(cat temp/cnn/snippet.txt)" "\`\`\`")
+
+          perl -0777 -i -pe "s/<!-- CODE: modelo-cnn-sensores -->.*?<!-- END CODE -->/<!-- CODE: modelo-cnn-sensores -->\n$SNIPPET\n<!-- END CODE -->/s" README.md
+
+
+      ##############################
+      # 3 — split_audio
+      ##############################
+      - name: Get snippet - split_audio
+        run: |
+          mkdir -p temp/split
+          cd temp/split
+
+          git clone https://github.com/pojucan/split_audio.git repo
+
+          TARGET_FILE="repo/split_audio.py"  # ajuste conforme o repo
+
+          if [ ! -f "$TARGET_FILE" ]; then
+            echo "Arquivo $TARGET_FILE não existe!"
+            exit 1
+          fi
+
+          head -n 10 "$TARGET_FILE" > snippet.txt
+
+      - name: Insert snippet - split_audio
+        run: |
+          SNIPPET=$(printf "%s\n" "\`\`\`python" "$(cat temp/split/snippet.txt)" "\`\`\`")
+
+          perl -0777 -i -pe "s/<!-- CODE: split_audio -->.*?<!-- END CODE -->/<!-- CODE: split_audio -->\n$SNIPPET\n<!-- END CODE -->/s" README.md
+
+
+      ##############################
+      # Commit final
+      ##############################
       - name: Commit changes
         run: |
           git config user.name "GitHub Action"
           git config user.email "actions@github.com"
 
           git add README.md || true
-          git commit -m "Update code snippet from iris-random-forest" || echo "No changes to commit"
+          git commit -m "Update code snippets" || echo "No changes to commit"
           git push
