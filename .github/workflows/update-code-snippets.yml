@@ -27,7 +27,7 @@ jobs:
           git clone https://github.com/pojucan/iris-random-forest.git repo
 
           # Arquivo de onde você quer extrair código
-          TARGET_FILE="src/iris_classifier.py"
+          TARGET_FILE="iris-random-forest/src/iris_classifier.py"
 
           if [ ! -f "$TARGET_FILE" ]; then
             echo "Arquivo $TARGET_FILE não existe!"
