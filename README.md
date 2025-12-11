@@ -49,12 +49,10 @@ from sklearn.metrics import accuracy_score, classification_report, confusion_mat
 
 ### modelo-cnn-sensores
 <!-- CODE: modelo-cnn-sensores -->
-
 <!-- END CODE -->
 
 ### split_audio
 <!-- CODE: split_audio -->
-
 <!-- END CODE -->
 
 
