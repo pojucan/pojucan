@@ -34,7 +34,8 @@
 
 ### 📌 iris-random-forest
 <a href="https://github.com/pojucan/iris-random-forest">
-  <img src="https://github-readme-stats-demolab.vercel.app/api/pin/?username=pojucan&repo=iris-random-forest&theme=radical" />
+  <img src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/pin/?username=pojucan&repo=iris-random-forest&theme=radical
+  " />
 </a>
 
 
