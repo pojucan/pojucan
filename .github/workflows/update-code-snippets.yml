@@ -54,7 +54,7 @@ jobs:
 
           git clone https://github.com/pojucan/modelo-cnn-sensores.git repo
 
-          TARGET_FILE="repo/scr/model-cnn-sensor.py"  # altere conforme necessário
+          TARGET_FILE="repo/src/model-cnn-sensor.py"  # altere conforme necessário
 
           if [ ! -f "$TARGET_FILE" ]; then
             echo "Arquivo $TARGET_FILE não existe!"
@@ -80,7 +80,7 @@ jobs:
 
           git clone https://github.com/pojucan/split_audio.git repo
 
-          TARGET_FILE="repo/split_audio.py"  # ajuste conforme o repo
+          TARGET_FILE="repo/src/split_audio.py"  # ajuste conforme o repo
 
           if [ ! -f "$TARGET_FILE" ]; then
             echo "Arquivo $TARGET_FILE não existe!"
