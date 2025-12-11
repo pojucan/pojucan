@@ -7,7 +7,7 @@
   <a href="https://github.com/pojucan">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pojucan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pojucan&layout=compact&langs_count=8&theme=dark"/>
-</div> -->
+</div>
 
 <!-- <a href="https://github.com/pojucan">
   <img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=pojucan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -30,12 +30,13 @@
   <img src="https://streak-stats.demolab.com?user=pojucan&theme=dark&hide_border=true" />
 </p> -->
 
-## ⭐ Repositórios fixados
+## Repositórios fixados
 <p>
   <!-- Use o pinning do próprio GitHub ou use o card gen -->
-  <a href="https://github.com/pojucan/REPO1">REPO1</a> • <a href="https://github.com/pojucan/REPO2">REPO2</a>
+  <a href="https://github.com/pojucan/iris-random-forest.git">iris-random-forest</a> •
+  <a href="https://github.com/pojucan/modelo-cnn-sensores.git">modelo-cnn-sensores</a> •  
+  <a href="https://github.com/pojucan/split_audio.git">split_audio</a>
 </p>
-
 
 
 ## Sobre mim
@@ -44,15 +45,32 @@
 
 ## Habilidades:
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;
-![R](https://img.shields.io/badge/R-%23276DC3?style=for-the-badge&logo=r&logoColor=white)&nbsp;
-![Fortran 90/95](https://img.shields.io/badge/Fortran_90/95-grey?style=for-the-badge&logo=fortran&logoColor=white)&nbsp;
-![LaTeX](https://img.shields.io/badge/LaTeX-%23008080?style=for-the-badge&logo=latex&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![SQLite](https://img.shields.io/badge/SQLite-%23003B57?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=git&logoColor=red)&nbsp;
-![Arduino](https://img.shields.io/badge/Arduino-%2300979D?style=for-the-badge&logo=arduino&logoColor=white)&nbsp;
+<!-- [![](https://visitcount.itsvg.in/api?id=pojucan&label=Visitas&color=9&icon=5&pretty=true)](https://visitcount.itsvg.in) -->
+
+<!-- Fortran -->
+<!-- ![Fortran 90/95](https://img.shields.io/badge/Fortran_90/95-grey?style=for-the-badge&logo=fortran&logoColor=white)&nbsp; -->
+
+<!-- Python -->
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="30"/>
+<!-- Jupyter -->
+<img src="https://img.shields.io/badge/Jupyter-%23F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="30"/>
+<!-- Linguagem R -->
+<img src="https://img.shields.io/badge/R-%23276DC3?style=for-the-badge&logo=r&logoColor=white" height="30"/>
+<!-- Julia -->
+<img src="https://img.shields.io/badge/-Julia-9558b2?style=flat-square&logo=julia&logoColor=fff" height="30"/>
+<!-- Fortran -->
+<img src="https://img.shields.io/badge/Fortran_90/95-grey?style=for-the-badge&logo=fortran&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/LaTeX-%23008080?style=for-the-badge&logo=latex&logoColor=white" height="30"/>
+<!-- HTML5 -->
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30"/>
+<!-- SQLite3 -->
+<img src="https://img.shields.io/badge/SQLite-%23003B57?style=for-the-badge&logo=sqlite&logoColor=white" height="30"/>
+<!-- Git -->
+<img src="https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=git&logoColor=red" height="30"/>
+<!-- Arduino -->
+<img src="https://img.shields.io/badge/Arduino-%2300979D?style=for-the-badge&logo=arduino&logoColor=white" height="30"/>
 
 ##
-[![](https://visitcount.itsvg.in/api?id=pojucan&label=Visitas&color=9&icon=5&pretty=true)](https://visitcount.itsvg.in)
+<!-- Contador de visitas -->
+<!-- [![](https://visitcount.itsvg.in/api?id=pojucan&label=Visitas&color=9&icon=5&pretty=true)](https://visitcount.itsvg.in) -->
+
