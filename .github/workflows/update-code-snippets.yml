@@ -1,0 +1,56 @@
+name: Update README Code Snippets
+
+on:
+  workflow_dispatch:
+  push:
+    branches: ["main"]
+  schedule:
+    - cron: "0 0 * * *"   # Atualiza diariamente
+
+jobs:
+  update-snippets:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 1
+
+      - name: Get code sample from iris-random-forest repo
+        run: |
+          mkdir temp
+          cd temp
+
+          # Clona o repositório alvo
+          git clone https://github.com/pojucan/iris-random-forest.git repo
+
+          # Arquivo de onde você quer extrair código
+          TARGET_FILE="repo/main.py"
+
+          if [ ! -f "$TARGET_FILE" ]; then
+            echo "Arquivo $TARGET_FILE não existe!"
+            exit 1
+          fi
+
+          # Extrai primeiras 20 linhas
+          head -n 5 "$TARGET_FILE" > snippet.txt
+
+          cd ..
+      
+      - name: Insert snippet into README
+        run: |
+          SNIPPET=$(printf "%s\n" "\`\`\`python" "$(cat temp/snippet.txt)" "\`\`\`")
+
+          # Substitui automaticamente entre os marcadores
+          perl -0777 -i -pe "s/<!-- CODE: iris-random-forest -->.*?<!-- END CODE -->/<!-- CODE: iris-random-forest -->\n$SNIPPET\n<!-- END CODE -->/s" README.md
+
+      - name: Commit changes
+        run: |
+          git config user.name "GitHub Action"
+          git config user.email "actions@github.com"
+
+          git add README.md || true
+          git commit -m "Update code snippet from iris-random-forest" || echo "No changes to commit"
+          git push
