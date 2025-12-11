@@ -16,9 +16,27 @@
   <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pojucan&layout=compact&langs_count=8&theme=dark"/>
 </a> -->
 
-[![Meu GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO)](https://github.com/pojucan)
+<p align="center">
+  <a href="https://github.com/pojucan">
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=pojucan&show_icons=true&theme=radical&include_all_commits=true"/>
+  </a>
+  <a href="https://github.com/pojucan">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pojucan&layout=compact&langs_count=8&theme=radical"/>
+  </a>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO)](https://github.com/pojucan)
+## 🔥 Streak & Contribuições
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pojucan&theme=dark&hide_border=true" />
+</p>
+
+## ⭐ Repositórios fixados
+<p>
+  <!-- Use o pinning do próprio GitHub ou use o card gen -->
+  <a href="https://github.com/pojucan/REPO1">REPO1</a> • <a href="https://github.com/pojucan/REPO2">REPO2</a>
+</p>
+
+
 
 ## Sobre mim
 
