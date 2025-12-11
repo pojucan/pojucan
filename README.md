@@ -49,25 +49,15 @@
 
 <!-- Fortran -->
 <!-- ![Fortran 90/95](https://img.shields.io/badge/Fortran_90/95-grey?style=for-the-badge&logo=fortran&logoColor=white)&nbsp; -->
-
-<!-- Python -->
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="30"/>
-<!-- Jupyter -->
 <img src="https://img.shields.io/badge/Jupyter-%23F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="30"/>
-<!-- Linguagem R -->
 <img src="https://img.shields.io/badge/R-%23276DC3?style=for-the-badge&logo=r&logoColor=white" height="30"/>
-<!-- Julia -->
 <img src="https://img.shields.io/badge/-Julia-9558b2?style=flat-square&logo=julia&logoColor=fff" height="30"/>
-<!-- Fortran -->
 <img src="https://img.shields.io/badge/Fortran_90/95-grey?style=for-the-badge&logo=fortran&logoColor=white" height="30"/>
 <img src="https://img.shields.io/badge/LaTeX-%23008080?style=for-the-badge&logo=latex&logoColor=white" height="30"/>
-<!-- HTML5 -->
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30"/>
-<!-- SQLite3 -->
 <img src="https://img.shields.io/badge/SQLite-%23003B57?style=for-the-badge&logo=sqlite&logoColor=white" height="30"/>
-<!-- Git -->
 <img src="https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=git&logoColor=red" height="30"/>
-<!-- Arduino -->
 <img src="https://img.shields.io/badge/Arduino-%2300979D?style=for-the-badge&logo=arduino&logoColor=white" height="30"/>
 
 ##
