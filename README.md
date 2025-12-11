@@ -3,7 +3,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://x.com/s0ph1h)](https://x.com/s0ph1h)
 
 ## Estatísticas
-<!-- <div>
+<div>
   <a href="https://github.com/pojucan">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pojucan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pojucan&layout=compact&langs_count=8&theme=dark"/>
@@ -14,9 +14,9 @@
 </a>
 <a href="https://github.com/pojucan">
   <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pojucan&layout=compact&langs_count=8&theme=dark"/>
-</a> -->
+</a>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/pojucan">
     <img height="150" src="https://github-readme-stats-demolab.vercel.app/api?username=pojucan&show_icons=true&theme=radical&include_all_commits=true" />
   </a>
@@ -28,7 +28,7 @@
 ## 🔥 Streak & Contribuições
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=pojucan&theme=dark&hide_border=true" />
-</p>
+</p> -->
 
 ## ⭐ Repositórios fixados
 <p>
