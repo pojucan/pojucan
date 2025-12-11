@@ -32,7 +32,7 @@
 
 ## Repositórios fixados
 
-### 📌 iris-random-forest
+### iris-random-forest
 <!-- <a href="https://github.com/pojucan/iris-random-forest">
   <img src="https://github-readme-stats-psi-eight.vercel.app/api/pin/?username=pojucan&repo=iris-random-forest&theme=radical" />
 </a> -->
@@ -47,12 +47,14 @@ from sklearn.metrics import accuracy_score, classification_report, confusion_mat
 ```
 <!-- END CODE -->
 
-## modelo-cnn-sensores
+### modelo-cnn-sensores
 <!-- CODE: modelo-cnn-sensores -->
+
 <!-- END CODE -->
 
-## split_audio
+### split_audio
 <!-- CODE: split_audio -->
+
 <!-- END CODE -->
 
 
