@@ -18,16 +18,16 @@
 
 <p align="center">
   <a href="https://github.com/pojucan">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=pojucan&show_icons=true&theme=radical&include_all_commits=true"/>
+    <img height="150" src="https://github-readme-stats-demolab.vercel.app/api?username=pojucan&show_icons=true&theme=radical&include_all_commits=true" />
   </a>
   <a href="https://github.com/pojucan">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pojucan&layout=compact&langs_count=8&theme=radical"/>
+    <img height="150" src="https://github-readme-stats-demolab.vercel.app/api/top-langs/?username=pojucan&layout=compact&langs_count=8&theme=radical" />
   </a>
 </p>
 
 ## 🔥 Streak & Contribuições
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pojucan&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=pojucan&theme=dark&hide_border=true" />
 </p>
 
 ## ⭐ Repositórios fixados
