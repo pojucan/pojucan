@@ -57,7 +57,7 @@
 <!-- Linguagem R -->
 <img src="https://img.shields.io/badge/R-%23276DC3?style=for-the-badge&logo=r&logoColor=white" height="30"/>
 <!-- Julia -->
-<img src="https://img.shields.io/badge/-Julia-9558b2?style=flat-square&logo=julia&logoColor=fff" height="31"/>
+<img src="https://img.shields.io/badge/-Julia-9558b2?style=flat-square&logo=julia&logoColor=fff" height="35"/>
 <!-- Fortran -->
 <img src="https://img.shields.io/badge/Fortran_90/95-grey?style=for-the-badge&logo=fortran&logoColor=white" height="30"/>
 <img src="https://img.shields.io/badge/LaTeX-%23008080?style=for-the-badge&logo=latex&logoColor=white" height="30"/>
