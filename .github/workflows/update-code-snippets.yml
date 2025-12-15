@@ -39,10 +39,20 @@ jobs:
 
       - name: Insert snippet - iris-random-forest
         run: |
-          SNIPPET=$(printf "%s\n" "\`\`\`python" "$(cat temp/iris/snippet.txt)" "\`\`\`")
-
-          perl -0777 -i -pe "s/<!-- CODE: iris-random-forest -->.*?<!-- END CODE -->/<!-- CODE: iris-random-forest -->\n$SNIPPET\n<!-- END CODE -->/s" README.md
-
+          awk '
+          BEGIN {print_flag=1}
+          /<!-- CODE: iris-random-forest -->/ {
+            print;
+            system("cat temp/iris/snippet.txt");
+            print_flag=0;
+            next
+          }
+          /<!-- END CODE -->/ {
+            print_flag=1
+          }
+          print_flag {print}
+          ' README.md > README.tmp
+          mv README.tmp README.md
 
       ##############################
       # 2 — modelo-cnn-sensores
