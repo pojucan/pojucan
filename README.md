@@ -30,29 +30,29 @@
   <img src="https://streak-stats.demolab.com?user=pojucan&theme=dark&hide_border=true" />
 </p> -->
 
-## Repositórios fixados
+<!-- ## Repositórios fixados
 
-### iris-random-forest
+### iris-random-forest -->
 <!-- <a href="https://github.com/pojucan/iris-random-forest">
   <img src="https://github-readme-stats-psi-eight.vercel.app/api/pin/?username=pojucan&repo=iris-random-forest&theme=radical" />
 </a> -->
 
 <!-- CODE: iris-random-forest -->
-import json
+<!-- import json
 from sklearn.datasets import load_iris
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score, classification_report, confusion_matrix
 import seaborn as sns
-import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt -->
 
-# Carregar as configurações do JSON
-with open('src/Hyperparameter-config.json', 'r') as f:
+<!-- # Carregar as configurações do JSON
+with open('src/Hyperparameter-config.json', 'r') as f: -->
 <!-- END CODE -->
-
-### modelo-cnn-sensores
+<!-- 
+### modelo-cnn-sensores -->
 <!-- CODE: modelo-cnn-sensores -->
-```python
+<!-- ```python
 import numpy as np
 import tensorflow as tf
 from tensorflow.keras.models import Sequential
@@ -76,7 +76,7 @@ def split_mp3(arquivo_entrada, comprimento_trecho_segundos):
     # Verifique se o arquivo de entrada existe
     if not os.path.isfile(arquivo_entrada):
         print(f"O arquivo {arquivo_entrada} não foi encontrado.")
-        return
+        return -->
     
     # Crie um diretório para armazenar os pedaços divididos
 ```
