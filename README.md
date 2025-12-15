@@ -38,21 +38,48 @@
 </a> -->
 
 <!-- CODE: iris-random-forest -->
-```python
 import json
 from sklearn.datasets import load_iris
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score, classification_report, confusion_matrix
-```
+import seaborn as sns
+import matplotlib.pyplot as plt
+
+# Carregar as configurações do JSON
+with open('src/Hyperparameter-config.json', 'r') as f:
 <!-- END CODE -->
 
 ### modelo-cnn-sensores
 <!-- CODE: modelo-cnn-sensores -->
+```python
+import numpy as np
+import tensorflow as tf
+from tensorflow.keras.models import Sequential
+from tensorflow.keras.layers import Dense, Conv1D, Flatten, InputLayer
+from sklearn.metrics import mean_absolute_error, r2_score
+import matplotlib.pyplot as plt
+
+# 1. Dados sintéticos
+n_samples = 1000
+n_epochs = 50
+```
 <!-- END CODE -->
 
 ### split_audio
 <!-- CODE: split_audio -->
+```python
+from pydub import AudioSegment
+import os
+
+def split_mp3(arquivo_entrada, comprimento_trecho_segundos):
+    # Verifique se o arquivo de entrada existe
+    if not os.path.isfile(arquivo_entrada):
+        print(f"O arquivo {arquivo_entrada} não foi encontrado.")
+        return
+    
+    # Crie um diretório para armazenar os pedaços divididos
+```
 <!-- END CODE -->
 
 
