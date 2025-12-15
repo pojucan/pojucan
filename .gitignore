@@ -1,2 +1,5 @@
 # Arquivos textos:
 *.txt
+
+# Pastas:
+/prompts/
